@@ -333,6 +333,10 @@ What is middlesware in redux what is role of redux saga and thank
 What is react control and uncontrol component with practical example 
 
 
+What is closer
+Lexical scope in closure
+How to optimize react page  what is usememo ,use callback ,react memo
+
 
 Practical 
 
