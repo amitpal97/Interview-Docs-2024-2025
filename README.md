@@ -1,5 +1,47 @@
 # Interview-Docs-2024-2025
 
+
+### companys ##
+
+
+
+# embital company counsltancy
+
+### 28/11/2024 bajaj round 1st round fail
+
+## [08/01/2025, 23:02] Amit Pal: **\***Truemeds **\*** 1st round fail
+
+#### Itvedant 08/02/24
+
+### [05/04, 16:37] Amit Pal: Techzuf interview questions (first round) ### aem 1st round fail
+
+# [28/04/2025, 16:25] Amit Pal: Fynd # frontend interview 1st round fail
+
+### 03/05, 20:23 Amit Pal: Concentrix screening interview 1 st round clear
+
+## Dept interview questions from amar (interview not given but listen that wright)
+
+# 25/06/2025, 16:57 Amit Pal: Bajaj 2 round
+
+## [25/07/2025] ## Deloitte aem frontend first round clear
+
+
+## Deloitte aem frontend secound round fail
+
+## [02/08/2025 ] Capgemini 1st round fail
+
+## 05/02/2025 Public and suspant 1st round fail
+
+
+# Indusdand bank (need to add question )
+
+# infosys (need to add question )
+
+
+
+
+
+
 Aem and frontened questions
 
 # questions given by embital company conltancy
