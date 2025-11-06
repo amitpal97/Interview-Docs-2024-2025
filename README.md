@@ -450,7 +450,7 @@ If you change in initial contant of editable changes so it reflect in all old pa
 
 Same also for static template also
 
-## 05/02/2025 Public and suspant 1st round fail
+## 05/08/2025 Public and suspant 1st round fail
 
 What is web progressive app
 
@@ -477,3 +477,407 @@ Flatten obj
 const obj = { a: 1, b: { c: 2, d: { e: 3 } } };
 
 // Expected: { 'a': 1, 'b.c': 2, 'b.d.e': 3 }
+
+
+[14/09, 22:43] Amit Pal: Indusbank 
+
+What are anotaion available 
+What is sling model ,osgi ,
+How to connect backend and frontend in aem
+
+How you encryption the api data  or pi data 
+How to pass  data  to backend 
+How to pass data without api
+
+How to set data in ui likeand how crate dynamic data
+[16/09, 14:41] Amit Pal: Sushant bajaj  return 1st round aem  question
+
+
+
+
+1. Aem aurticture
+
+
+2. Aem aurticture for interview
+
+
+3. What is aurticture of aem
+
+
+4. No like osgi and all flow
+
+
+5. Sling in jcr
+
+
+6. Some of outof box in aem
+
+
+7. Diff sling api and jcr api
+
+
+8. Give me diff table
+
+
+9. Out of box workflows in aem
+
+
+10. Diff event handler and event listener
+
+
+11. In javascript
+
+
+12. Which one bleolg sling api or jcr api in api
+
+
+13. In event listener
+
+
+14. Why use jcr
+
+
+15. What it's has do with property in jcr
+
+
+16. How you create custom work flow in aem
+
+
+17. Give me steps
+
+
+18. Aem model
+
+
+19. Diff hadles and helpful aurticture in arm
+
+
+20. We redux not use contex api
+
+
+21. Given you react application performance wise so tell me approch how should I opemize
+
+
+22. What is ael
+
+
+23. What we use aem
+
+
+24. What is accsiavllity
+
+
+25. Reson to change job
+
+
+26. What plan for next yers you
+
+
+27. What approch to mentoring to juniors
+
+
+28. You have any questions if interwiew ask
+
+
+29. Hi mayuri I will login late by 10 o'clock because today is the checkout of my apartment please correct
+
+
+30. Lazy loading
+
+
+31. Dynamic media in aem
+
+
+32. What is multi site in aem
+
+
+33. List of annotation ina em
+
+
+34. What is use of value mapin aem
+
+
+35. System user guide
+
+
+36. How do you maintain a version of client libraers
+
+
+37. Version client libraers on aem
+
+
+38. How many ways we create service in aem
+
+
+39. Aem aurticture
+
+
+40. No I want under the hood osfi and
+[16/09, 14:43] Amit Pal: 1. What is the architecture of AEM?
+
+
+2. Can you explain the AEM architecture for interviews?
+
+
+3. What is the underlying architecture of AEM, including its components?
+
+
+4. Can you explain AEM architecture focusing on OSGi and request flow?
+
+
+5. What is Sling, and how does it interact with JCR in AEM?
+
+
+6. What are some out-of-the-box features in AEM?
+
+
+7. What is the difference between Sling API and JCR API?
+
+
+8. Can you provide a comparison table between Sling API and JCR API?
+
+
+9. What are the out-of-the-box workflows available in AEM?
+
+
+10. What is the difference between an event handler and an event listener in AEM?
+
+
+11. How are event listeners implemented in JavaScript within AEM projects?
+
+
+12. In the context of event listeners, which API belongs to Sling and which to JCR?
+
+
+13. How are event listeners used in AEM?
+
+
+14. Why is JCR used in AEM?
+
+
+15. How do properties work in JCR?
+
+
+16. How do you create a custom workflow in AEM?
+
+
+17. Can you provide step-by-step instructions for creating a custom workflow in AEM?
+
+
+18. What is a Sling Model in AEM?
+
+
+19. What is the difference between headless and traditional (helpful) architecture in AEM?
+
+
+20. Why would you use Redux instead of Context API in a React application integrated with AEM?
+
+
+21. How would you optimize performance in a React application integrated with AEM?
+
+
+22. What is AEM Editable Templates (AEL)?
+
+
+23. Which AEM features are commonly used in projects?
+
+
+24. What is accessibility in AEM, and why is it important?
+
+
+25. What are your reasons for changing jobs (context for interview)?
+
+
+26. What are your plans for the next few years in your career?
+
+
+27. What is your approach to mentoring juniors in AEM projects?
+
+
+28. What questions would you ask in an AEM interview if given the opportunity?
+
+
+29. How would you inform a colleague professionally if you are logging in late due to apartment checkout?
+
+
+30. What is lazy loading, and how is it implemented in AEM?
+
+
+31. What is Dynamic Media in AEM, and how is it used?
+
+
+32. What is Multi-Site Management (MSM) in AEM?
+
+
+33. What are the commonly used annotations in AEM?
+
+
+34. What is the use of ValueMap in AEM?
+
+
+35. What is a system user in AEM, and how is it used?
+
+
+36. How do you maintain versions of client libraries in AEM?
+
+
+37. How do you implement versioning for client libraries in AEM?
+
+
+38. How many ways are there to create a service in AEM?
+
+
+39. Can you explain the full AEM architecture again?
+
+
+40. Can you explain the “under the hood” AEM architecture focusing on OSGi and internal flow?
+41.
+[30/09, 14:46] Amit Pal: Ibm 1st round senerio based questions 
+
+Suppose you have 3 fields name ,lastname , age and is authorable and  when you click on submit button how you send data to backend and where ?
+
+How you inject service 
+What is osgi sirivice ,servelet , model's 
+
+How you pass data to servelet
+[01/10, 21:21] Amit Pal: Morgan stanley  01/10/2025
+
+1. What is aem
+2. What are  tool you use like jira ,azure
+3. What is cross functional ( means how  many people are there how you work together)
+4. What are stack holder 
+5. How your project aurticture working 
+6. Whats is your collaboration in project in aem  like temple and page and all
+7. Have you worked with qa or ba and authors and what type of bugs there finding in your code give me example and how you solve 
+8. How you manage the content publish all things .
+9. You have knowledge of html css js and what type framework you know
+10. What are the deep link url and how you manage in aem
+11. How you get requrement from stakeholder and how you work with team.
+
+
+
+
+[04/11, 23:33] Amit Pal: 3 nov bajaj 2  rounds question 
+
+Core AEM Concepts
+
+1. What is AEM architecture — explain Author, Publish, and Dispatcher roles?
+
+
+2. What is Sling and how does AEM use the Sling framework?
+
+
+3. What is the JCR (Java Content Repository) and how is content stored in it?
+
+
+4. What are OSGi components and their lifecycle methods?
+
+
+5. What is the purpose of the /libs and /apps folder?
+
+
+6. How do you overlay or override a component from /libs?
+
+
+
+
+---
+
+🔹 Templates & Components
+
+7. Difference between static and editable templates?
+
+
+8. What is a policy in editable templates?
+
+
+9. What happens if you delete a component used on multiple pages?
+
+
+10. What is the difference between parsys and iparsys?
+
+
+11. How can you pass data from a component to HTL?
+
+
+
+
+---
+
+🔹 HTL (Sightly)
+
+12. What is the use of data-sly-use, data-sly-call, and data-sly-template?
+
+
+13. What are HTL expression options (e.g., ${}, @context, etc.)?
+
+
+14. How can you include one component inside another using HTL?
+
+
+15. How do you access child nodes or resources in HTL?
+
+
+
+
+---
+
+🔹 Client Libraries
+
+16. What are Clientlibs and how do you include them in components?
+
+
+17. What’s the difference between dependencies and embed in clientlibs?
+
+
+18. How can you integrate Tailwind CSS or React inside AEM clientlibs?
+
+
+19. What is the best practice for naming clientlibs folders?
+
+
+
+
+---
+
+🔹 AEM Backend Concepts
+
+20. What are Sling Models and what annotations are commonly used (@Model, @Inject, @ValueMapValue, etc.)?
+
+
+21. How to convert a CQ dialog to JSON response (annotation used: @Exporter)?
+
+
+22. How does AEM handle scheduler and workflow?
+
+
+23. What is a Scheduler, and what is its lifecycle in OSGi?
+
+
+24. What is a Workflow, and how do you create a custom workflow step?
+
+
+
+
+---
+
+🔹 Integration & Optimization
+
+25. How does AEM integrate with external APIs?
+
+
+26. How can you optimize page performance in AEM?
+
+
+27. What is the role of Dispatcher, and what’s the difference between Dispatcher vs Web Server?
+
+
+28. How can you clear Dispatcher cache automatically after publishing a page?
+29.
+[04/11, 23:36] Amit Pal: Practical 
+
+Right login code in react how use integrate aem
+
+What is hoc right code
+
+Write graph ql query
