@@ -881,3 +881,11 @@ Right login code in react how use integrate aem
 What is hoc right code
 
 Write graph ql query
+
+denstu 27 feb 2026   interviwe prepration
+practical call country api this will give all country list and then when user click the perticuler api of country will called
+
+
+
+
+
