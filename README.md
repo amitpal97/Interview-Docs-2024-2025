@@ -26,16 +26,50 @@
 ## [25/07/2025] ## Deloitte aem frontend first round clear
 
 
-## Deloitte aem frontend secound round fail
+##  31july 2025 Deloitte aem frontend secound round fail
 
 ## [02/08/2025 ] Capgemini 1st round fail
 
 ## 05/02/2025 Public and suspant 1st round fail
 
 
-# Indusdand bank (need to add question )
+#. (15 Aug 2025) Indusdand bank (need to add question )
 
-# infosys (need to add question )
+
+# 23 aug 2025infosys (need to add question )
+
+26 sep 2025 public and sepiant 2 nd round fail
+
+
+1 oct 2025 Morgan Stanley 1 st round clear
+
+8 oct 2025 Morgan stanly second round fail
+
+10 oct 2025 public and sepiant 
+
+14 oct 2025 public and sepiant
+
+
+
+14 feb 2026 wipro 1 st round clear
+
+17 feb 2026 empower 1 st round fail senior frontend developer 
+
+
+3 March 2025 Hcl 1st round fail  senior frontend developer 
+
+3 March  2026 movate 1 stround pass
+
+
+5 March 2026 movate 2 nd round. fail 
+
+12 March 2026 wipro 2 nd round  pass
+
+12 March 2026 Ntt data 1 st round
+
+14 March 2026 Ust global 1 st round aem lead fail
+
+
 
 
 
