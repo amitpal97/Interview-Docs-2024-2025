@@ -40,6 +40,8 @@
 
 26 sep 2025 public and sepiant 2 nd round fail
 
+5 aug public and sepiant 
+
 
 1 oct 2025 Morgan Stanley 1 st round clear
 
@@ -49,11 +51,15 @@
 
 14 oct 2025 public and sepiant
 
+10 dec 2025 epam interview 
+
 
 
 14 feb 2026 wipro 1 st round clear
 
 17 feb 2026 empower 1 st round fail senior frontend developer 
+
+27 feb 2026 denstu 1 st round fail,
 
 
 3 March 2025 Hcl 1st round fail  senior frontend developer 
@@ -523,7 +529,9 @@ How you encryption the api data  or pi data
 How to pass  data  to backend 
 How to pass data without api
 
-How to set data in ui likeand how crate dynamic data
+How to set data in ui like and how crate dynamic data
+
+
 [16/09, 14:41] Amit Pal: Sushant bajaj  return 1st round aem  question
 
 
@@ -609,11 +617,6 @@ How to set data in ui likeand how crate dynamic data
 
 27. What approch to mentoring to juniors
 
-
-28. You have any questions if interwiew ask
-
-
-29. Hi mayuri I will login late by 10 o'clock because today is the checkout of my apartment please correct
 
 
 30. Lazy loading
@@ -916,9 +919,167 @@ What is hoc right code
 
 Write graph ql query
 
-denstu 27 feb 2026   interviwe prepration
+
+
+Epam - 10dec 2025
+
+
+Diff html 4 and html 5
+Meta tags 
+
+Flex vs grid
+CSS vs scss advantage
+
+
+What is event bubbling
+Core concept of JavaScript 
+
+Practical 
+Align element in center
+
+
+Allow proxy
+Dependencies and embed
+Editable template and static template 
+Component structure 
+Content fragment and experience fragment where uts store 
+Client lib js and CSS file deep understanding asking
+
+Data sly test
+Diff data sly list and data sly repat
+
+Why we use sly tag
+
+
+
+14 feb wipro 1 st round clear
+
+
+
+
+
+17 feb empower 1 st fail
+
+
+
+
+denstu 27 feb 2026  
+fail need practice
+
+
 practical call country api this will give all country list and then when user click the perticuler api of country will called
 
+
+
+Hcl 3 march 2026 1 st round fail
+
+
+What is AEM?
+
+React Jest
+
+State management in React
+
+Difference between Redux and Context
+
+What is the Virtual DOM?
+
+What is Reconciliation in React?
+
+Keys in React
+
+Difference between State and Props
+
+What is React.memo?
+
+What are Hooks in React?
+
+Create a JavaScript controlled input that displays whatever I type in react also practical
+
+
+movate 3 march 1 st pass
+
+
+
+movate 5 March 2 nd fail
+
+
+
+
+
+
+
+
+
+
+
+
+
+12 March 2026
+Wipro 2 nd round
+
+Html 
+
+Diff between sementic and non sementic tag details full
+Accessibility 
+Seo
+
+
+Css
+Sudo class and sudo elm
+Display none vs visibility hidden
+Diff flex and grid 
+
+Practical css
+
+Create 3 div in horizontal row and different color and when hover it's diff colour and 1 div in left and 2 in mid and 3 in right 
+
+
+Js
+Closure 
+Call back
+Callback hell
+Promises
+Async await
+Polyfills vs prototype and what is difference 
+Expain eventloop
+What is web api
+What is hoc diff between hoc and callback
+How many type of function is their in js
+Data types in js
+
+
+Aem
+Diff Cf and Ef
+Static and editable template
+What is msm and how you can create multiple country pages and how you update content 
+How you integrate aem and react
+Expain component structure how you create custom component
+What is client lib and diff between embed and dependancy
+How you optimize aem website
+How you create Page and templates expain from start how you website in aem 
+What is aem architecture 
+What are run mode in aem
+What is replication agents
+Practical
+Array sorting without inbuilt function using bubble sort (fail)
+
+
+
+
+13 march 2026 ntt data 1 st round
+
+
+
+14 March 2026 us global 1 st round fail aem lead 
+
+
+How to migrate another CMS to Adobe Experience Manager as an architect?
+How to migrate a component from React to SolidJS?
+How to create a reusable component library across multiple templates in Adobe Experience Manager?
+How does a reusable component library work across multiple websites in Adobe Experience Manager?
+How do you solve performance-based issues in Adobe Experience Manager?
+How do you manage multiple country websites in Adobe Experience Manager?
 
 
 
