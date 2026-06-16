@@ -952,7 +952,7 @@ Why we use sly tag
 
 
 
-14 feb wipro 1 st round clear
+12feb 2026 wipro 1 st round clear
 
 
 
@@ -1047,6 +1047,7 @@ What is web api
 What is hoc diff between hoc and callback
 How many type of function is their in js
 Data types in js
+what is edge workers and services worker and webworker
 
 
 Aem
@@ -1069,6 +1070,34 @@ Array sorting without inbuilt function using bubble sort (fail)
 
 13 march 2026 ntt data 1 st round
 
+Ntt data  13 march 1 st round 
+
+
+AEM Questions
+Accordion component in AEM how to do
+AEM to React how data render
+Title description label in AEM React how to get data from AEM SLY model (frontend and backend code)
+Runmodes in AEM
+Jenkins AEM
+Rewrite rules for CI/CD
+Rewrite rule redirection
+Initial mode and structure mode template
+Multi Site Management in AEM how it works
+Rollout configuration
+How to change language in multi pages
+Config Sling in Adobe Experience Manager
+React Questions
+React hooks
+Where will get data from authoring to render in React
+React chunks
+React router in React
+Frontend / CSS Questions
+CSS box model
+Mixin in SCSS in Sass
+Media query for mobile and tablet
+px vs % vs rem vs em difference in CSS
+Bootstrap classes in Bootstrap
+Flex vs Grid difference
 
 
 14 March 2026 us global 1 st round fail aem lead 
@@ -1080,6 +1109,56 @@ How to create a reusable component library across multiple templates in Adobe Ex
 How does a reusable component library work across multiple websites in Adobe Experience Manager?
 How do you solve performance-based issues in Adobe Experience Manager?
 How do you manage multiple country websites in Adobe Experience Manager?
+
+
+26 march interview accenture 
+
+Interviewer - prathmesh Gore
+
+Difference between Flexbox and Grid
+4 <li> items → how to change background color of 2 items
+Negative padding and margin
+Does negative margin/padding affect responsive design?
+⚡ JavaScript
+Difference between onload and document ready
+Execution order question:
+Given: 1 2 3 4
+Output: 4 3 2 1 / 3421
+(Related to async / execution flow / hoisting / callbacks)
+🧱 AEM (Adobe Experience Manager)
+Difference between Author and Publish
+Overlay vs Override
+Multi Site Manager (MSM)
+Difference between Static Template and Editable Template
+
+
+8 April wipro 3 rounds clear
+
+
+ 
+23 may 2026 interview cleared offer prossess
+
+
+Tcs aem developer interview 
+1.intro - wrong
+2.communication - bad
+
+
+
+Question 
+1.what is aem 
+2.what is page policy and component policy 
+3.how you debugging with aem if you css not loading
+3 how your aem is build with client lib gerlnerator
+4 have you work with clientlib ,outof box component , custom component, template pages 
+5 how graphql work with content fragment and  or aem headless
+6 you work with next js or backend 
+7 how you debugg error in aem and api call with frontend or backend 
+8 what is msm and. Suppose you api call and is falied ilyour message is showing how you display with msm in different language
+
+
+
+
 
 
 
