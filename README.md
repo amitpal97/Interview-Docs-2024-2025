@@ -1159,6 +1159,64 @@ Question
 
 
 
+Ey 2 nd round face to face 
+Interview - ayesh Agarwal (main)
+Jatin 
+
+
+Css 
+
+Flexbox and grid , media queries , 
+
+Senerio css
+
+You have 10 card item  and need to make in 4  then 4 card and 2 card using flexbox  how you can achive 
+
+
+ 
+You have to make 1 banner component  and in banner image will set edge to edge and  on text filed is there basically text need in the centre how will achive
+
+Suppose you have a 2 banner image 1 for mobile and 1 for desktop need to in different screen size  and you we need to from html only how we can achive
+
+
+Aem
+
+Sling model how to write and get what is @value map anototion and what is  other annotation is there 
+
+
+How you consume sling model data in slythly
+
+Have you  return sling model
+
+What is servelet 
+
+ Diff sly list and sly repeat
+
+ Give me method more in slightly  
+
+What is clientlib and  clientlib generator you ever make client lib generator configuration  how to write configuration of client generator
+
+
+Diff between embed and dependencies
+
+Suppose I have vendor css file have bottstrape so witch clentb property use like dependencies or embedded 
+
+
+What is disspacture condiguration
+
+JavaScript 
+
+What are the ES6 new came like arrow function and other expain 
+
+What is diff between function and arrow function 
+
+What is prommisses
+ Expain each method
+
+What is evenet loop how js excuted 
+
+Suppose you have to make api call like 4 api call how will you call and what time is take like addition of all 4 api call time or what
+
 
 
 
