@@ -1219,5 +1219,58 @@ Suppose you have to make api call like 4 api call how will you call and what tim
 
 
 
+Code & Theory  23 july 2026. 1 st round
+interviewer - pavan and pervej khan
+
+
+Interview Question Bank (Based on Your Asked Questions)
+HTML
+
+What are semantic and non-semantic tags?
+What is accessibility (a11y)?
+How does a screen reader identify a Submit or Cancel button?
+What is the <picture> tag?
+What are data attributes?
+What is lazy loading?
+What is the Critical Rendering Path (CRP)?
+
+CSS
+
+What is the CSS Box Model?
+What is box-sizing: border-box?
+What is CSS Specificity?
+How does the CSS Cascade work?
+What is Flexbox?
+What is CSS Grid?
+Difference between Flexbox and Grid.
+What is position: fixed?
+Difference between fixed and sticky.
+
+JavaScript
+Difference between var, let and const.
+Difference between async and defer.
+How do you flatten an array?
+React
+How does React work?
+What is React Fiber?
+What happens when setState() is called?
+Create a component with 5 elements.
+Implement search functionality in React.
+
+AEM
+How are Header and Footer created in AEM templates?
+What is an AEM Policy?
+How do you map a React component in AEM?
+How do you include JavaScript using Clientlibs in HTL?
+What are the common data-sly commands?
+Difference between data-sly-repeat and data-sly-use.
+How do you show a Banner component by default in an Editable Template?
+
+
+
+
+
+
+
 
 
