@@ -1266,8 +1266,33 @@ What are the common data-sly commands?
 Difference between data-sly-repeat and data-sly-use.
 How do you show a Banner component by default in an Editable Template?
 
+**Code and theory  2 nd round 
+**Inteviwer -  gopal agrawal ( director of company 20 years aurtictue)
+
+What is the dispatcher rule 
+Let support you want to block the particular page how will you block
+
+What is aem as onprime and aem as cloud service and eds explain difference 
+
+Diff between dat sly use and data sly resources 
+
+Difference between git pull and git fetch 
+How will resolve conflict 
+Suppose I need personalized aem website like Facebook or linkdin how will you create dynamic page and what will be  approach
+How you work with aem + reacts you ever work with spa editor
+How you work with ai tools 
+Have you deployed code in the aem server and how you code is deployed in the browser
 
 
+**Hashout Technologies interviwer-anurag c**
+Osgi config vs context aware config
+ Dispacture rule for venity path like you path /content /ace/home loan 
+
+So need answer - www.bajaj/home-loan
+ What is servlet  how you create the backend to frontend or fe to backend
+
+Suppose you need to create comment component how will  you create and how send data to backend
+What diff between child path and aresoucs path based
 
 
 
