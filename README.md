@@ -1,3 +1,15 @@
+
+
+
+https://wissen.interviewninja.app/m/jSoRVaB
+
+
+
+https://teams.microsoft.com/l/meetup-join/19%3ameeting_NzE2ZGI4NWYtMGQ0MC00NGMwLWIyOGYtYjkwNDBjMjE0OGYz%40thread.v2/0?context=%7b%22Tid%22%3a%224adae17a-ae8f-4ebe-b9b9-730105aa1002%22%2c%22Oid%22%3a%2226c99625-5473-414f-a47b-c734b0b77993%22%7d
+
+
+
+
 # Interview-Docs-2024-2025
 
 
